@@ -1,0 +1,50 @@
+body {
+  background-color:powderblue;
+}
+#div1{
+  width:550px;
+  padding:20px;
+  margin:50px auto;
+  border-radius:15px;
+  box-shadow:0px 0px 10px purple;
+  text-align:center;
+  font-size : 50px;
+  background-color:pink;
+}
+#div2{
+  width:350px;
+  padding:20px;
+  margin:50px auto;
+  border-radius:15px;
+  box-shadow:0px 0px 10px purple;
+  text-align:center;
+  font-size : 35px;
+  background-color:yellow;
+}
+#button{
+  width:100px;
+  border-radius:15px;
+  font-size:20px;
+  background-color:green;
+  color:white;
+}  
+#button:hover{
+  background-color:darkblue;
+}  
+#num1{
+  color:orange;
+  text-align:center;
+  font-size:20px;
+}
+#num2{
+  color:orange;
+  text-align:center;
+  font-size:20px;
+}
+#op{
+  color:orange;
+  text-align:center;
+  font-size:20px;
+}
+  
+  
